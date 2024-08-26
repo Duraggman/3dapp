@@ -8,7 +8,7 @@
 	<meta name="source" content="oasis_V2.wrl" />
 </head>
 <Scene>
-	<Viewpoint DEF="front-cam"
+	<Viewpoint DEF="cam-front"
 		position="0 342 2929"
 		orientation="1 0 0 0"
 		fieldOfView="0.658699989318848"
@@ -16,22 +16,22 @@
 	<NavigationInfo DEF="ONav"
 		avatarSize="0.25 1.60000002384186 0.75"
 		type='"EXAMINE"' />
-	<Viewpoint DEF="top-cam"
+	<Viewpoint DEF="cam-top"
 		position="0 2604 0"
 		orientation="1 0 0 -1.57099997997284"
 		fieldOfView="0.602400004863739"
 		description="top-cam" />
-	<Viewpoint DEF="bot-cam"
+	<Viewpoint DEF="cam-bot"
 		position="0 -2604 0"
 		orientation="-1 0 0 -1.57099997997284"
 		fieldOfView="0.602400004863739"
 		description="bot-cam" />
-	<Viewpoint DEF="right-cam"
+	<Viewpoint DEF="cam-right"
 		position="2604 342 0"
 		orientation="0 -1 0 -1.57099997997284"
 		fieldOfView="0.602400004863739"
-		description="right-cam" />
-	<Viewpoint DEF="left-cam"
+		description="cam-right" />
+	<Viewpoint DEF="cam-left"
 		position="-2604 342 0"
 		orientation="0 1 0 -1.57099997997284"
 		fieldOfView="0.602400004863739"

@@ -204,11 +204,11 @@
                                         <Switch whichChoice="0" id="switcher">
                                                 <inline id="inline_c" nameSpaceName="model" mapDEFToID="true"url="assets\x3d\models\coke_can_v4.x3d"></inline> </inline>
                                             </Switch>
-                                            <Switch whichChoice="1" id="switcher-c">
+                                            <Switch whichChoice="1" id="switcher">
                                                 <inline id="inline_c" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\sprite_v2.x3d"></inline>
                                             </Switch>
-                                            <Switch whichChoice="2" id="switcher-c">
-                                                <inline id="inline_c" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\oasis-o_1.x3d"></inline>
+                                            <Switch whichChoice="2" id="switcher">
+                                                <inline id="inline_c" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\oasisv2.x3d"></inline>
                                         </scene>
                                     </x3d>
                                 </div>
@@ -296,7 +296,7 @@
                                                 <inline id="inline_s" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\coke_can_v4.x3d"></inline>
                                             </Switch>
                                             <Switch whichChoice="2" id="switcher">
-                                                <inline id="inline_s" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\oasis-o_1.x3d"></inline>
+                                                <inline id="inline_s" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\oasisv2.x3d"></inline>
                                             </Switch>
                                         </scene>
                                     </x3d>
@@ -391,7 +391,7 @@
                                                 <inline id="inline_s" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\coke_can_v4.x3d"></inline>
                                             </Switch>
                                             <Switch whichChoice="0" id="switcher">
-                                                <inline id="inline_s" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\oasis-o_1.x3d"></inline>
+                                                <inline id="inline_s" nameSpaceName="model" mapDEFToID="true" url="assets\x3d\models\oasisv2.x3d"></inline>
                                             </Switch>
                                         </scene>
                                     </x3d>
